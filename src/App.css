@@ -5,4 +5,20 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: hsl(0, 0%, 30%);
+}
+
+.box{
+    height: 500px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 10%);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.title{
+    padding: 10px;
+    color: white;
 }
