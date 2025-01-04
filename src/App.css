@@ -14,11 +14,29 @@ body{
     border-radius: 15px;
     background-color: hsl(0, 0%, 10%);
     display: flex;
+    flex-direction: column;
+}
+
+.nameProfile{
+    top: 0;
+    display: flex;
     justify-content: center;
-    align-items: flex-start;
 }
 
 .title{
     padding: 10px;
     color: white;
+}
+
+.buttons-links{
+    margin: auto;
+    justify-content: center;
+}
+
+.button-Youtube{
+    margin-top: auto;
+}
+
+.button-X, .button-Twitch{
+    margin-top: 50px;
 }
