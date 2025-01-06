@@ -10,7 +10,7 @@ body{
 
 .box{
     height: auto;
-    width: 80vw;
+    width: 300px;
     padding: 15px 10px;
     border-radius: 15px;
     background-color: hsl(0, 0%, 10%);
@@ -47,4 +47,10 @@ body{
 
 .button-Youtube{
     margin-top: auto;
+}
+
+@media(max-width: 400px){
+    .box{
+        width: 80vw;
+    }
 }
