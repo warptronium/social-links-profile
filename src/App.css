@@ -39,7 +39,7 @@ body{
 .buttons-links{
     padding-top: 10px;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     margin: auto;
     justify-content: center;
     gap: 15px;
