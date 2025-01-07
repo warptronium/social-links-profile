@@ -10,6 +10,8 @@ function App() {
           <div className="profile">
             <img src={imageAvatar} className="imageAvatar" alt="image_avatar" />
             <p className="title">warptronium</p>
+            <p className="contry">Paris, France</p>
+            <p className="description">"Front-end dev and space enthusiast."</p>
           </div>
           <div className="buttons-links">
             <ButtonLink title="Youtube"/>
