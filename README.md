@@ -1,3 +1,6 @@
+# **Information**
+Ce site est un exercice de reproduction d'un design existant. Le design original, intitulé "Social links profile", est disponible sur la plateforme [Frontend Mentor](https://www.frontendmentor.io/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
